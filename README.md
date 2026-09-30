@@ -1,8 +1,11 @@
 # reactive-odds-engine
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+Высоконагруженная реактивная система для букмекерской конторы, обрабатывающая live-ставки с гарантиями Exactly-Once и защитой от арбитража.
 
-If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
+## Документация
+
+- **[architecture.md](architecture.md)** — полная техническая спецификация: архитектура, алгоритмы, топики Kafka, метрики.
+- **[glossary.md](glossary.md)** — глоссарий терминов.
 
 ## Running the application in dev mode
 
